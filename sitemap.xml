@@ -3,7 +3,8 @@
 	<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n<url>
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
 <loc>http://</loc>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
@@ -11,73 +12,73 @@
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/12013HBAAJJCWCANTH-39852946.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-09-29</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/12013HBAAL50FEANTH-42869981.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-15</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/12013HBAAMF4AQANTH-45139901.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-10-10</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/12013HBAAMFTP2ANTH-45173212.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-09-28</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4MPZNANTH-9948984.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-01</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4MPZOANTH-9948985.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-20</lastmod>
+<lastmod>2017-10-04</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4MPZQANTH-9948987.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-01</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4MPZSANTH-9948989.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-27</lastmod>
+<lastmod>2017-10-21</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4N04EANTH-9965311.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-26</lastmod>
+<lastmod>2017-10-18</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4N04YANTH-9965331.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA4NQ5XANTH-10009551.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-09-29</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA55NAYANTH-11108329.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-26</lastmod>
+<lastmod>2017-10-03</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
@@ -89,7 +90,7 @@
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA5OWR1ANTH-12243193.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-14</lastmod>
+<lastmod>2017-10-21</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
@@ -101,193 +102,193 @@
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6E4NPANTH-13665110.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-21</lastmod>
+<lastmod>2017-10-22</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6E4NQANTH-13665111.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6E4NRANTH-13665112.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-30</lastmod>
+<lastmod>2017-10-06</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6E4NSANTH-13665113.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-23</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAA2ANTH-13777328.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-26</lastmod>
+<lastmod>2017-10-20</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAA6ANTH-13777332.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-21</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAA7ANTH-13777326.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-13</lastmod>
+<lastmod>2017-10-03</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAA8ANTH-13777333.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-06</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAA9ANTH-13777334.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-15</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6GAAAANTH-13777335.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-01</lastmod>
+<lastmod>2017-10-09</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6PVESANTH-14295282.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-14</lastmod>
+<lastmod>2017-10-23</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6PVF2ANTH-14295300.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-03</lastmod>
+<lastmod>2017-10-20</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA6TWTYANTH-14499924.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAA8O5GNANTH-17877189.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-27</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAADFPXANTH-21116870.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-02</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAADFQ5ANTH-21116878.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-28</lastmod>
+<lastmod>2017-10-06</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAB8EROANTH-22793481.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-25</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAB8FNNANTH-22794631.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-05</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAADPZ4QANTH-27771704.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-22</lastmod>
+<lastmod>2017-10-10</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAADS1SMANTH-27889985.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-04</lastmod>
+<lastmod>2017-10-08</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAADS24TANTH-27890446.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-09-29</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAADSDI3ANTH-27906851.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAADSDZIANTH-27907565.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-27</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAGWJEKANTH-34879120.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAGWJOUANTH-34879518.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-08</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAGWKDLANTH-34880483.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-09</lastmod>
+<lastmod>2017-10-07</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAGWKXWANTH-34881280.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-16</lastmod>
+<lastmod>2017-10-18</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAGWLUNANTH-34882536.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-20</lastmod>
+<lastmod>2017-10-10</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAHNVGIANTH-36329357.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-07</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAJC8B6ANTH-39465731.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-09</lastmod>
+<lastmod>2017-10-17</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAJC8LXANTH-39466156.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-27</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAJC8NMANTH-39466221.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-04</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
@@ -299,205 +300,205 @@
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAK7AGQANTH-41139404.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-10-04</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAALV74RANTH-44151101.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-20</lastmod>
+<lastmod>2017-10-10</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAAMGK4HANTH-45208800.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-20</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANHRUAANTH-47241519.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-24</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANHRVDANTH-47241574.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-04</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANHRVOANTH-47241542.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-03</lastmod>
+<lastmod>2017-10-02</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANHTMCANTH-47244096.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-27</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANHTN2ANTH-47244145.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANOB1IANTH-47627887.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANP0JLANTH-47666034.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-26</lastmod>
+<lastmod>2017-10-09</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANP0JPANTH-47666028.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-02</lastmod>
+<lastmod>2017-09-29</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANPDI0ANTH-47686221.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-01</lastmod>
+<lastmod>2017-10-20</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/3C812HBAANPDI5ANTH-47686226.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-26</lastmod>
+<lastmod>2017-09-28</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/4B332HBAA62FH9ANTH-13008736.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/4U206HBAAMYFRLANTH-46216728.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-21</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/A1142HBAA4NNTNANTH-10006250.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-27</lastmod>
+<lastmod>2017-10-09</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AA128HBAA6NVA9ANTH-14193363.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-19</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AA128HBAA6WEYLANTH-14633542.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-10-06</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AA128HBBMDFBANTH-2394534.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-14</lastmod>
+<lastmod>2017-10-01</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB239HBAA2ZCRYANTH-6432919.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-22</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA469CWANTH-8926885.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-19</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA469D1ANTH-8926890.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-30</lastmod>
+<lastmod>2017-10-01</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA4IYZHANTH-9728333.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-14</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA524PBANTH-10863676.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-15</lastmod>
+<lastmod>2017-10-14</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA524PDANTH-10863679.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-03</lastmod>
+<lastmod>2017-10-21</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAA55VKSANTH-11132466.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAAH8FN6ANTH-35521292.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-09</lastmod>
+<lastmod>2017-10-18</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AB975HBAAH8FQZANTH-35521436.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-20</lastmod>
+<lastmod>2017-10-22</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AC015HBAE3S5ANTH-660734.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-30</lastmod>
+<lastmod>2017-10-01</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AC015HBAGGMMANTH-751383.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-10-09</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AC015HBAGGUEANTH-751694.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AC015HBBN7FHANTH-2438584.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-21</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AD692HBAA5GS6XANTH-11794692.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-10</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AD692HBAADWSCCANTH-28141167.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-26</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
@@ -509,217 +510,217 @@
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AF499HBAANT3PRANTH-47887382.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-14</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AG419HBAAMW228ANTH-46094630.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-28</lastmod>
+<lastmod>2017-10-25</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AG433HBAA9H0L2ANTH-19323959.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-18</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AG433HBAA9H0M1ANTH-19323993.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-16</lastmod>
+<lastmod>2017-10-15</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AG637HBAA491GCANTH-9081189.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-10-20</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AG637HBAA491GEANTH-9081191.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-08</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI130HBAAEPZVWANTH-29841065.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-04</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI130HBAAH8IVVANTH-35525759.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-12</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI130HBAAKVON1ANTH-42403094.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-09</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI130HBBMDFFANTH-2394538.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-23</lastmod>
+<lastmod>2017-10-25</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAA3XVKGANTH-8431888.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-28</lastmod>
+<lastmod>2017-10-02</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAA40T46ANTH-8614611.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-10-13</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAD0RVGANTH-26189774.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-01</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAD0VAAANTH-26195354.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-28</lastmod>
+<lastmod>2017-10-08</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAD1AHZANTH-26215447.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-25</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAD1AI1ANTH-26215449.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-05</lastmod>
+<lastmod>2017-10-21</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAD1AJKANTH-26215504.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-15</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AI821HBAAE4JJVANTH-28605109.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-10-23</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAA6LK2JANTH-14071602.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-09-29</lastmod>
+<lastmod>2017-10-02</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAA6LK3LANTH-14071640.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-06</lastmod>
+<lastmod>2017-09-29</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAA6M62GANTH-14107334.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-09-28</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAACYXJRANTH-26101266.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-08</lastmod>
+<lastmod>2017-10-02</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAACYZ9ZANTH-26103569.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-02</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAACZ187ANTH-26106266.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-22</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAAD0KMNANTH-26178740.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-27</lastmod>
+<lastmod>2017-10-18</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAAETZTQANTH-30079205.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-03</lastmod>
+<lastmod>2017-10-11</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAAGOZBMANTH-34467408.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-12</lastmod>
+<lastmod>2017-10-05</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL035HBAAGP064ANTH-34468541.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-13</lastmod>
+<lastmod>2017-10-27</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL237HBAA1XC92ANTH-4175903.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-22</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL258HBCA3YWANTH-3155162.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-11</lastmod>
+<lastmod>2017-10-13</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL521HBAA8DXWTANTH-17339963.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-19</lastmod>
+<lastmod>2017-10-24</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL521HBAAAA2B6ANTH-20901034.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-23</lastmod>
+<lastmod>2017-09-30</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL521HBAAGOZIOANTH-34467662.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-10</lastmod>
+<lastmod>2017-10-13</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL521HBAALQ566ANTH-43893420.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-03</lastmod>
+<lastmod>2017-10-12</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL632HBAA63HFEANTH-13068133.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-01</lastmod>
+<lastmod>2017-10-03</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc><![CDATA[ https://aordev.github.io/fashion/1/AL632HBAA63HFFANTH-13068134.html]]></loc>
 <changefreq>daily</changefreq>
-<lastmod>2017-10-07</lastmod>
+<lastmod>2017-09-28</lastmod>
 <priority>1.0</priority>
 </url>
 </urlset>
